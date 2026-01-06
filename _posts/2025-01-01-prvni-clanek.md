@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "První článek"
+title: SYSTEM BOOT
 ---
 
-Ahoj světe 👋  
-Tohle je můj první Jekyll blog na GitHub Pages.
+INITIALIZING MEMORY...
+OK
+
+LOADING BLOG ENGINE...
+DONE
+
+WELCOME USER.

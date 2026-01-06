@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-01-06T12:37:01+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Můj IT blog</title><subtitle>Poznámky o Go, Kubernetes a architektuře</subtitle><entry><title type="html">SYSTEM BOOT</title><link href="http://localhost:4000/2025/01/01/prvni-clanek.html" rel="alternate" type="text/html" title="SYSTEM BOOT" /><published>2025-01-01T00:00:00+01:00</published><updated>2025-01-01T00:00:00+01:00</updated><id>http://localhost:4000/2025/01/01/prvni-clanek</id><content type="html" xml:base="http://localhost:4000/2025/01/01/prvni-clanek.html"><![CDATA[<p>INITIALIZING MEMORY…
+OK</p>
+
+<p>LOADING BLOG ENGINE…
+DONE</p>
+
+<p>WELCOME USER.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[INITIALIZING MEMORY… OK]]></summary></entry></feed>

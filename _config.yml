@@ -1,6 +1,12 @@
 title: Můj IT blog
 description: Poznámky o Go, Kubernetes a architektuře
-url: https://example.cz
 
-markdown: kramdown
-theme: null
+
+
+theme: minima
+
+
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
